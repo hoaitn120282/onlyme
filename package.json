@@ -75,7 +75,7 @@
         "twilio": "^3.18.0",
         "twit": "^2.2.11",
         "url-pattern": "1.0.3",
-        "validator": "^10.4.0",
+        "validator": "^13.7.0",
         "winston": "^2.4.0"
     },
     "devDependencies": {
